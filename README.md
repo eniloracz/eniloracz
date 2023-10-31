@@ -15,8 +15,8 @@
 
  
 <a href="https://github.com/Anacarolineoliveira">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anacarolineoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnacarolineOliveira&layout=compact&langs_count=7&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eniloracz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniloracz&layout=compact&langs_count=7&theme=radical"/>
 
 
 ![Snake animation](https://github.com/DanielsOfficial0102/DanielsOfficial0102/blob/output/github-contribution-grid-snake.svg)
