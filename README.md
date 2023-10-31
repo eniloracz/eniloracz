@@ -32,14 +32,7 @@
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
-<h1 align="center">Oii, meu nome é Ana ✌🏼 </h1>
-“Seu trabalho vai ocupar uma grande parte da sua vida, e a única maneira de estar verdadeiramente satisfeito é fazendo aquilo que você acredita ser um ótimo trabalho. E a única maneira de fazer um ótimo trabalho, é fazendo o que você ama fazer.” - Steve Jobs.
-<h3 align="left">Redes Sociais</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ianacaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="ianacaroline" height="30" width="40" /></a>
-<a href="https://instagram.com/eniloraczz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "alt="anacsjpg" altura="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 
